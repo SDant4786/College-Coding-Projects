@@ -1,0 +1,7 @@
+D:\GItHub\College Coding Projects\C#\Faction Tester\Program\Fraction test\bin\Debug\Fraction test.exe.config
+D:\GItHub\College Coding Projects\C#\Faction Tester\Program\Fraction test\bin\Debug\Fraction test.exe
+D:\GItHub\College Coding Projects\C#\Faction Tester\Program\Fraction test\bin\Debug\Fraction test.pdb
+D:\GItHub\College Coding Projects\C#\Faction Tester\Program\Fraction test\obj\Debug\Fraction test.csprojAssemblyReference.cache
+D:\GItHub\College Coding Projects\C#\Faction Tester\Program\Fraction test\obj\Debug\Fraction test.csproj.CoreCompileInputs.cache
+D:\GItHub\College Coding Projects\C#\Faction Tester\Program\Fraction test\obj\Debug\Fraction test.exe
+D:\GItHub\College Coding Projects\C#\Faction Tester\Program\Fraction test\obj\Debug\Fraction test.pdb
